@@ -1,0 +1,14 @@
+/* Hochformat */
+@media screen and (orientation: portrait) {
+  body {
+    background-color: blue;
+    color: white;
+  }
+}
+/* Querformat */
+@media screen and (orientation: landscape) {
+  body {
+    background-color: red;
+    color: black;
+  }
+}
